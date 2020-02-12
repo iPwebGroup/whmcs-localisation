@@ -10,7 +10,7 @@
  *
  * WHMCS compatibilty: 7.9.1
  *
- * https://github.com/liagkos/whcms-localisation
+ * https://github.com/liagkos/whmcs-localisation
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
