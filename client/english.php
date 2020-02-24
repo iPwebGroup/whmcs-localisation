@@ -3077,4 +3077,7 @@ $_LANG['creditCardHolderName'] = "Card Holder Name";
 $_LANG['redirectingToCompleteCheckout'] = "Redirecting you to complete checkout. Please wait...";
 $_LANG['paypalEmailAddress'] = "PayPal Email Address";
 
+$_LANG['fromJust'] = "from just";
+$_LANG['remoteTransError'] = "Remote Transaction Failure. Please Contact Support.";
+
 ////////// End of english language file.  Do not place any translation strings below this line!

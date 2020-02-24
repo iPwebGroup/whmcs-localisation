@@ -3071,3 +3071,8 @@ $_LANG['creditCardHolderName'] = "Όνομα ιδιοκτήτη κάρτας";
 
 $_LANG['redirectingToCompleteCheckout'] = "Ανακατεύθυνση για την ολοκλήρωση της συναλλαγής. Παρακαλούμε περιμένετε...";
 $_LANG['paypalEmailAddress'] = "Διεύθυνση PayPal";
+
+# 7.9.2
+
+$_LANG['fromJust'] = "από μόλις";
+$_LANG['remoteTransError'] = "Αποτυχημένη συναλλαγή. Επικοινωνήστε με την υποστήριξη.";
